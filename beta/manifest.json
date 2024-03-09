@@ -1,9 +1,9 @@
 {
  "name": "German Sword Modules (Beta)",
  "description": "Beta Module repository for German Public Domain Resources",
- "manifestUrl": "https://gerstrongmodules.github.io/alpha/manifest.json",
+ "manifestUrl": "https://germanswordmodules.github.io/alpha/manifest.json",
  "type": "sword-https",
- "host": "gerstrongmodules.github.io",
+ "host": "germanswordmodules.github.io",
  "catalogDirectory": "/beta",
  "packageDirectory": "/beta/packages"
 }
