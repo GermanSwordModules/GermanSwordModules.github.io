@@ -1,0 +1,9 @@
+{
+ "name": "German Sword Modules",
+ "description": "Additional Module repository for German Public Domain Resources",
+ "manifestUrl": "https://gerstrongmodules.github.io/additional/manifest.json",
+ "type": "sword-https",
+ "host": "gerstrongmodules.github.io",
+ "catalogDirectory": "/additional",
+ "packageDirectory": "/additional/packages"
+}
