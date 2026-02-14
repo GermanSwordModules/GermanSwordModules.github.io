@@ -1,9 +1,9 @@
 {
- "name": "German Sword Modules",
+ "name": "German Sword Modules (+)",
  "description": "Additional Module repository for German Public Domain Resources",
- "manifestUrl": "https://germanswordmodules.github.io/additional/manifest.json",
+ "manifestUrl": "https://elch.uber.space/sword/additional/manifest.json",
  "type": "sword-https",
- "host": "germanswordmodules.github.io",
+ "host": "elch.uber.space/sword",
  "catalogDirectory": "/additional",
  "packageDirectory": "/additional/packages"
 }
